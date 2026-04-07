@@ -497,7 +497,7 @@
     <div class="creation-grid">
 
       <div class="creation-card wide" data-category="fashion" data-index="0">
-        <img src="UXORA_NEW_DESIGNE.png" alt="UXORA Campaign" loading="lazy">
+        <img src="uxora-site/UXORA_NEW_DESIGNE.png" alt="UXORA Campaign" loading="lazy">
         <div class="card-overlay">
           <h3>UXORA</h3>
           <p>Campagne mode urbaine</p>
@@ -506,7 +506,7 @@
       </div>
 
       <div class="creation-card" data-category="branding" data-index="1">
-        <img src="PHOTO-2026-02-25-13-31-46_7.jpg" alt="Olly Magazine" loading="lazy">
+        <img src="uxora-site/PHOTO-2026-02-25-13-31-46_7.jpg" alt="Olly Magazine" loading="lazy">
         <div class="card-overlay">
           <h3>Olly Magazine</h3>
           <p>Branding online shop</p>
@@ -515,7 +515,7 @@
       </div>
 
       <div class="creation-card" data-category="food" data-index="2">
-        <img src="PHOTO-2026-02-25-13-31-46_5.jpg" alt="Jumex" loading="lazy">
+        <img src="uxora-site/PHOTO-2026-02-25-13-31-46_5.jpg" alt="Jumex" loading="lazy">
         <div class="card-overlay">
           <h3>Jumex Manzana</h3>
           <p>Publicité boisson</p>
@@ -524,7 +524,7 @@
       </div>
 
       <div class="creation-card wide" data-category="food" data-index="3">
-        <img src="PHOTO-2026-02-25-13-31-46_4.jpg" alt="Hamburger" loading="lazy">
+        <img src="uxora-site/PHOTO-2026-02-25-13-31-46_4.jpg" alt="Hamburger" loading="lazy">
         <div class="card-overlay">
           <h3>Hamburger</h3>
           <p>Visuel restauration</p>
@@ -533,7 +533,7 @@
       </div>
 
       <div class="creation-card" data-category="fashion" data-index="4">
-        <img src="PHOTO-2026-02-25-13-31-46_3.jpg" alt="Puma Lafrancé" loading="lazy">
+        <img src="uxora-site/PHOTO-2026-02-25-13-31-46_3.jpg" alt="Puma Lafrancé" loading="lazy">
         <div class="card-overlay">
           <h3>Puma Lafrancé</h3>
           <p>Fiche produit sneakers</p>
@@ -542,7 +542,7 @@
       </div>
 
       <div class="creation-card" data-category="food" data-index="5">
-        <img src="PHOTO-2026-02-25-13-31-46_2.jpg" alt="Masse Smoothie" loading="lazy">
+        <img src="uxora-site/PHOTO-2026-02-25-13-31-46_2.jpg" alt="Masse Smoothie" loading="lazy">
         <div class="card-overlay">
           <h3>Masse Smoothie</h3>
           <p>Étiquette nutritionnelle</p>
@@ -551,7 +551,7 @@
       </div>
 
       <div class="creation-card wide" data-category="parfum" data-index="6">
-        <img src="PHOTO-2026-02-25-13-31-46_6.jpg" alt="Jean Paul Gaultier" loading="lazy">
+        <img src="uxora-site/PHOTO-2026-02-25-13-31-46_6.jpg" alt="Jean Paul Gaultier" loading="lazy">
         <div class="card-overlay">
           <h3>Jean Paul Gaultier</h3>
           <p>Publicité parfum — Le Beau</p>

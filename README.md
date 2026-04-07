@@ -479,14 +479,7 @@
     <span class="tool-badge">Illustrator</span>
   </div>
 
-  <!-- CRÉATIONS -->
-  <div id="creations" class="creations-section">
-    <div class="creations-header">
-      <p class="section-label">Portfolio</p>
-      <h2 class="creations-title">Nos <em>Créations</em></h2>
-      <p class="creations-subtitle">Design · Branding · Visual Identity · Food · Fashion</p>
-    </div>
-
+ 
     <div class="filter-bar">
       <button class="filter-btn active" data-filter="all">Tout</button>
       <button class="filter-btn" data-filter="fashion">Fashion</button>

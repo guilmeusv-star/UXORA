@@ -480,14 +480,6 @@
   </div>
 
  
-    <div class="filter-bar">
-      <button class="filter-btn active" data-filter="all">Tout</button>
-      <button class="filter-btn" data-filter="fashion">Fashion</button>
-      <button class="filter-btn" data-filter="food">Food & Drink</button>
-      <button class="filter-btn" data-filter="branding">Branding</button>
-      <button class="filter-btn" data-filter="parfum">Parfum</button>
-    </div>
-
         
 
   <!-- LIGHTBOX -->

@@ -508,7 +508,7 @@
       </div>
 
       <div class="creation-card" data-category="branding" data-index="1">
-        <img src="uxora-site/![PHOTO-2026-02-25-13-31-46 7](https://github.com/user-attachments/assets/fd23b45b-a904-4c3e-84c3-e07247e8863d)
+        <img src="uxora-site/[PHOTO-2026-02-25-13-31-46 7](https://github.com/user-attachments/assets/fd23b45b-a904-4c3e-84c3-e07247e8863d)
 " alt="Olly Magazine" loading="lazy">
         <div class="card-overlay">
           <h3>Olly Magazine</h3>
@@ -518,7 +518,7 @@
       </div>
 
       <div class="creation-card" data-category="food" data-index="2">
-        <img src="uxora-site/![PHOTO-2026-02-25-13-31-46 5](https://github.com/user-attachments/assets/e063dfa9-f771-44de-8cf5-6381b5680b06)
+        <img src="uxora-site/[PHOTO-2026-02-25-13-31-46 5](https://github.com/user-attachments/assets/e063dfa9-f771-44de-8cf5-6381b5680b06)
 " alt="Jumex" loading="lazy">
         <div class="card-overlay">
           <h3>Jumex Manzana</h3>
@@ -528,7 +528,7 @@
       </div>
 
       <div class="creation-card wide" data-category="food" data-index="3">
-        <img src="uxora-site/"![PHOTO-2026-02-25-13-31-46 4](https://github.com/user-attachments/assets/f342bb56-417e-40fa-8501-e5761256f386)
+        <img src="uxora-site/[PHOTO-2026-02-25-13-31-46 4](https://github.com/user-attachments/assets/f342bb56-417e-40fa-8501-e5761256f386)
  alt="Hamburger" loading="lazy">
         <div class="card-overlay">
           <h3>Hamburger</h3>
@@ -538,7 +538,7 @@
       </div>
 
       <div class="creation-card" data-category="fashion" data-index="4">
-        <img src="uxora-site/![PHOTO-2026-02-25-13-31-46 3](https://github.com/user-attachments/assets/fe9c930d-209e-4785-89d9-60dd4e59f294)
+        <img src="uxora-site/[PHOTO-2026-02-25-13-31-46 3](https://github.com/user-attachments/assets/fe9c930d-209e-4785-89d9-60dd4e59f294)
 " alt="Puma Lafrancé" loading="lazy">
         <div class="card-overlay">
           <h3>Puma Lafrancé</h3>
@@ -548,7 +548,7 @@
       </div>
 
       <div class="creation-card" data-category="food" data-index="5">
-        <img src="uxora-site/![PHOTO-2026-02-25-13-31-46](https://github.com/user-attachments/assets/352ebfe8-5236-4a40-ba33-c5a52e9321c7)
+        <img src="uxora-site/[PHOTO-2026-02-25-13-31-46](https://github.com/user-attachments/assets/352ebfe8-5236-4a40-ba33-c5a52e9321c7)
 " alt="Masse Smoothie" loading="lazy">
         <div class="card-overlay">
           <h3>Masse Smoothie</h3>
@@ -558,7 +558,7 @@
       </div>
 
       <div class="creation-card wide" data-category="parfum" data-index="6">
-        <img src="uxora-site![PHOTO-2026-02-25-13-31-46 6](https://github.com/user-attachments/assets/58db8189-c20d-49a3-b009-c5a14ac19fb9)
+        <img src="uxora-site/[PHOTO-2026-02-25-13-31-46 6](https://github.com/user-attachments/assets/58db8189-c20d-49a3-b009-c5a14ac19fb9)
 /" alt="Jean Paul Gaultier" loading="lazy">
         <div class="card-overlay">
           <h3>Jean Paul Gaultier</h3>

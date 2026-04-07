@@ -499,6 +499,7 @@
 
       <div class="creation-card wide" data-category="fashion" data-index="0">
         <img src="uxora-site/UXORA_NEW_DESIGNE.png" alt="UXORA Campaign" loading="lazy">
+        <img width="1728" height="2304" alt="Image" src="https://github.com/user-attachments/assets/431c1542-baaa-4fb6-bd23-5493ac5ccc8b" />
         <div class="card-overlay">
           <h3>UXORA</h3>
           <p>Campagne mode urbaine</p>

@@ -480,12 +480,7 @@
   </div>
 
 >
-          <span class="card-tag">Parfum</span>
-        </div>
-      </div>
-
-    </div>
-  </div>
+          
 
   <!-- LIGHTBOX -->
   <div class="lightbox" id="lightbox">
